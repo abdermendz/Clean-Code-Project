@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  Board.cpp
+  ChessGame.cpp
+  Piece.cpp
+  String.cpp
+c:\users\abil2\source\repos\chessgame\chessgame\string.cpp(55): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  ChessGame.vcxproj -> C:\Users\abil2\source\repos\ChessGame\Debug\ChessGame.exe
